@@ -1,6 +1,6 @@
 # Exaltai
 
-Tom: F
+Tom: F, sobe para G
 
 Introdução: (Gm7  C7(9)) x4
 

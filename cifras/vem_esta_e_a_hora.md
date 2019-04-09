@@ -1,6 +1,6 @@
 # Vem Esta É A Hora
 
-Tom: D
+Tom: D, sobe para E
 
 Introdução: (D  D9  D4  D) x4
 
