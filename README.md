@@ -2,6 +2,12 @@
 
 Repertório de músicas cristãs tocadas na Rede em Português da Iglesia Latina de Munich.
 
+## Hinos Tradicionais
+
+* [Que segurança](cifras/que_seguranca.md)
+
+## Cânticos Congragacionais
+
 * [Agnus Dei](cifras/agnus_dei.md)
 * [Doce presença](cifras/doce_presenca.md)
 * [Ele é exaltado](cifras/ele_e_exaltado.md)
