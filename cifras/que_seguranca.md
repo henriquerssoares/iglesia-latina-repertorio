@@ -1,46 +1,46 @@
 # Que Segurança
 ## Hinário para o Culto Cristão - # 417
 
-Tom: D
+Tom: C
 
-Introdução: D  G  D/A  A7  D
+Introdução: C  F/C  C | C  F6  C/G  G7  C
 
 ```
-D              G/D      D
+C              F/C      C
 Que segurança! Sou de Jesus!
-         A/E      E7         A
+         G/D      D7         G
 Eu já desfruto as bençãos da luz
-          D      G/D      D
+          C      F/C      C
 Sou por Jesus herdeiro de Deus
-       G6     D/A    A7  D
+       F6     C/G    G7  C
 Ele me leva à glória dos céus
 
 
-    D                G          D
+    C                F          C
     Canta minh'alma, canta ao Senhor
-              G      D/F#   A/E   E  A    A7
+              F      C/E    G/D   D  G    G7
     Rende-lhe sempre ar  -  dente louvor
-               D     G/D        D
+               C     F/C        C
     Canta minh'alma, canta ao Senhor
-    D         G6       D/A   A7  D
+    C         F6       C/G   G7  C
     Rende-lhe sempre ardente lou-vor
 
-D              G/D     D
+C              F/C     C
 Ao Seu amor eu me submeti
-        A/E   E7        A
+        G/D   D7        G
 E extasiado então me senti
-         D     G/D       D
+         C     F/C       C
 Anjos cantando nos altos céus
-           G6    D/A   A7  D
+           F6    C/G   G7  C
 Louvam a excelsa graça de  Deus
 
-D                 G/D         D
+C                 F/C         C
 Sempre vivendo em seu grande amor
-       A/E     E7       A
+       G/D     D7       G
 Me regozijo em meu Salvador
-       D     G/D     D
+       C     F/C     G
 Esperançoso, vivo na luz
-       G6    D/A    A7   D
+       F6    C/G    G7   C
 pela bondade do meu Je - sus
 ```
 
