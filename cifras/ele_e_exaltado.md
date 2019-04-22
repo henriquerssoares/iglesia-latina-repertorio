@@ -28,7 +28,8 @@ Am7  G     D/F#  C/E  D         G        G/B       C     G/B
 Ele  é o Senhor           Sua verdade vai sempre reinar
 Am7   G    D/F#  C/E  D       G         D/F#  E/G#
 Ter - ra e céus          glorificam seu santo nome
-Am7       G       F         D        G     E7
+                                           E4  E (para voltar)
+Am7       G       F         D        G     E7    (para terminar)
 Ele é exaltado, o rei é exaltado nos céus
 ```
 
