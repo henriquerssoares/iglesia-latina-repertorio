@@ -7,7 +7,8 @@ Introdução: (Gm7  C7(9)) x4
 ```
 Gm7                C7(9)
 Entrarei em Tua presença
-Gm7                   C7(9)
+                             Somente baixo - Opcional
+Gm7                   C7(9)  C  B
 Com sacrifícios de louvor
 Bbm7               Eb7(9)
 Com canções eu Te exaltarei
@@ -16,7 +17,8 @@ Bendito seja o Senhor
 
 Gm7              C7(9)
 Toda glória seja dada a ti
-Gm7            C7(9)
+                       Somente baixo - Opcional
+Gm7            C7(9)   C  B
 Do pecado me livraste
 Bbm7               Eb7(9)
 Agora estou justificado
