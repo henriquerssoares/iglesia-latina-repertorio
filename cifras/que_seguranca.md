@@ -38,7 +38,7 @@ C                 F/C         C
 Sempre vivendo em seu grande amor
        G/D     D7       G
 Me regozijo em meu Salvador
-       C     F/C     G
+       C     F/C     C
 Esperançoso, vivo na luz
        F6    C/G    G7   C
 pela bondade do meu Je - sus
