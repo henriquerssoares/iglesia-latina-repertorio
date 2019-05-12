@@ -1,9 +1,12 @@
 # Ele É Exaltado
 
+```
 Tom: F, sobe para G
+```
 
+```
 Introdução: ( F  F/A  Bb  Bb/D  C/E ) x2
-
+```
 
 ```
 F                 F/A                Bb        Bb/D  C/E

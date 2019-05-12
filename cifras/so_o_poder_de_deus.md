@@ -1,0 +1,30 @@
+# Só O Poder De Deus
+
+```
+Tom: A
+```
+
+```
+Introdução: D7+  D#º  A  G#  G  F#  Bm7  E7  A  A7 | D7+  D#º  A  G#  G  F#  Bm7  E7  A  E7
+```
+
+```
+   A7+  D7+/A  A7+
+Só o po-der de Deus
+A7+    F#m7    Bm
+Pode mudar teu ser
+  Bm        Bm7+  Bm7  E7
+A prova que eu te dou
+Bm7     E79   A7+  E79
+É que mudou o meu
+
+    A7+     D7+/A  A7+
+Não vês que sou fe-liz   
+A7+           D7+
+Servindo ao Senhor
+
+D7+      D#º  A    G#   G  F#
+Nova criatura sou, no - va sou
+Bm7  E7  A
+No - va  sou
+```

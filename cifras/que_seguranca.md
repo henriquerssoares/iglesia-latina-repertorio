@@ -1,9 +1,13 @@
 # Que Segurança
 ## Hinário para o Culto Cristão - # 417
 
+```
 Tom: C
+```
 
+```
 Introdução: C  F/C  C | C  F6  C/G  G7  C
+```
 
 ```
 C              F/C      C

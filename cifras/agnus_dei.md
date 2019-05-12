@@ -1,8 +1,12 @@
 # Agnus Dei
 
+```
 Tom: G
+```
 
+```
 Introdução: (G  G/C  G | G  C  D  Em | D  C  G  G/C  G) x2
+```
 
 ```
 G   G/C  G   G   C   D  Em

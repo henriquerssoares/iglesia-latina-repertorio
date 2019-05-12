@@ -1,8 +1,12 @@
 # Doce Presença
 
+```
 Tom: G
+```
 
+```
 Introdução: (G  Am  Bm  Em | Am  D  G  D7) x2
+```
 
 ```
       G      Am      Bm   Em

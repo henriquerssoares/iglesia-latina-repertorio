@@ -1,8 +1,12 @@
 # Teu Povo
 
+```
 Tom: C
+```
 
+```
 Introdução: C/G  G  C/G  G | Em7 | C7+ | G/B C D Em D/F# G G/B C
+```
 
 ```
         C/G  G   C/G  G          Em7
