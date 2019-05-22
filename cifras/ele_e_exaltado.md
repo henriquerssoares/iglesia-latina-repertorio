@@ -35,4 +35,3 @@ Ter - ra e céus          glorificam seu santo nome
 Am7       G       F         D        G     E7    (para terminar)
 Ele é exaltado, o rei é exaltado nos céus
 ```
-

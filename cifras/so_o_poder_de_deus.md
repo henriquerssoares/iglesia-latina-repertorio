@@ -27,4 +27,19 @@ D7+      D#º  A    G#   G  F#
 Nova criatura sou, no - va sou
 Bm7  E7  A
 No - va  sou
+
+              A7+                   Bm7
+Se Deus é por nós, quem será contra nós
+              E79                   A7+
+Se Deus é por nós, quem será contra nós
+
+D7+            E7/D
+Posso todas as coisas
+C#m7                F#m7
+Naquele que me fortalece
+Bm7
+Jesus me fortalece
+E7                A47  A7  (para voltar)
+                  A7+  E7  (para seguir)
+Posso todas as coisas
 ```

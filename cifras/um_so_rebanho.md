@@ -7,7 +7,7 @@ Tom: D
 ```
 
 ```
-Introdução: 
+Introdução: G  D/A  Bb7  D/A  A7  D
 ```
 
 ```

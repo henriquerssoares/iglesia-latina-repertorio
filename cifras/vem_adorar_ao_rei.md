@@ -31,7 +31,7 @@ D9  A/C#           Bm7      G         A/G
 Vem      adorar ao rei, exaltar seu poder
      F#m7     Bm7
 Seu amor, sua glória
-                      D9                                      (Para voltar ou para acabar)
-    Em7    G/A  A/C#  G    D/F#  G  D/F#  G  D/F#  E/G#  E  A (Para seguir)
+                      D9                                      (Para voltar)
+    Em7    G/A  A/C#  G    D/F#  G  D/F#  G  D/F#  E/G#  E  A (Para seguir ou para acabar)
 Sim vem adorar  ao    rei
 ```
