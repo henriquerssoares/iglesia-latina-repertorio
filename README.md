@@ -1,9 +1,11 @@
-# Repertório da Rede em Português
+# Repertório - Louvores em Português
 
-Repertório de músicas cristãs tocadas na Rede em Português da Iglesia Latina de Munich.
+Repertório pessoal de músicas cristãs em Português.
 
 ## Hinos Tradicionais
 
+* [Descansando No Poder de Deus](cifras/descansando_no_poder_de_deus.md)
+* [Não A Nós, Senhor](cifras/nao_a_nos_senhor.md)
 * [Que Segurança](cifras/que_seguranca.md)
 * [Um Só Rebanho](cifras/um_so_rebanho.md)
 
