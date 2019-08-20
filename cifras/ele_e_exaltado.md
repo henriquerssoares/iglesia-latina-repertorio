@@ -1,4 +1,4 @@
-# Ele É Exaltado
+# Ele é exaltado
 
 ```
 Tom: F, sobe para G

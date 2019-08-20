@@ -1,4 +1,4 @@
-# Teu Povo
+# Teu povo
 
 ```
 Tom: C

@@ -1,5 +1,5 @@
-# Descansando no Poder de Deus
-## Hinário para o Culto Cristão - # 330
+# Descansando no poder de Deus
+## Hinário para o culto cristão - # 330
 
 ```
 Tom: E

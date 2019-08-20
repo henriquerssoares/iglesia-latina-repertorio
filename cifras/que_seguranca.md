@@ -1,5 +1,5 @@
-# Que Segurança
-## Hinário para o Culto Cristão - # 417
+# Que segurança
+## Hinário para o culto cristão - # 417
 
 ```
 Tom: C

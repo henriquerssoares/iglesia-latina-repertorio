@@ -1,4 +1,4 @@
-# Só O Poder De Deus
+# Só o poder de Deus
 
 ```
 Tom: A
@@ -25,7 +25,8 @@ Servindo ao Senhor
 
 D7+      D#º  A    G#   G  F#
 Nova criatura sou, no - va sou
-Bm7  E7  A
+             A7 (para voltar)
+Bm7  E7  A   E7 (para seguir)
 No - va  sou
 
               A7+                   Bm7

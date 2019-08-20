@@ -1,4 +1,4 @@
-# Ao Que É Digno
+# Ao que é digno
 
 ```
 Tom: D

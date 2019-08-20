@@ -1,5 +1,5 @@
-# Não a Nós, Senhor
-## Hinário para o Culto Cristão - # 23
+# Não a nós, Senhor
+## Hinário para o culto cristão - # 23
 
 ```
 Tom: G

@@ -1,4 +1,4 @@
-# Vem Adorar Ao Rei
+# Vem adorar ao Rei
 
 ```
 Tom: D

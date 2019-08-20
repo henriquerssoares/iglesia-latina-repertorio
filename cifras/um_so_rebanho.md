@@ -1,5 +1,5 @@
-# Um Só Rebanho
-## Hinário para o Culto Cristão - # 574
+# Um só rebanho
+## Hinário para o culto cristão - # 574
 
 
 ```

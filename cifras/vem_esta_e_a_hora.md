@@ -1,4 +1,4 @@
-# Vem Esta É A Hora
+# Vem, esta é a hora
 
 ```
 Tom: D, sobe para E
