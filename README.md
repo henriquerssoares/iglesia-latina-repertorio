@@ -20,6 +20,8 @@ Repertório pessoal de músicas cristãs em Português.
 * [Exaltai](cifras/exaltai.md)
 * [Jesus em Tua presença](cifras/jesus_em_tua_presenca.md)
 * [Maravilhoso](cifras/maravilhoso.md)
+* [Meu respirar](cifras/meu_respirar.md)
+* [Oferta de amor](cifras/oferta_de_amor.md)
 * [Só o poder de Deus](cifras/so_o_poder_de_deus.md)
 * [Teu povo](cifras/teu_povo.md)
 * [Vem adorar ao Rei](cifras/vem_adorar_ao_rei.md)

@@ -12,8 +12,8 @@ Introdução: A  F#m  C#m  F#m | Bm  E7  A  E7
 ```
       A        F#m        C#m     F#m
 Em fervente oração, vem o teu coração
-      Bm    D/E  E/D  E/G#  A     E7
-Na presença de   Deus derra-mar!
+      Bm    D/E  E/D    E/G#  A     E7
+Na presença de   Deus derra - mar!
        A        F#m        C#m     F#m
 Mas só podes fruir o que estás a pedir,
        Bm      E7         A    Bm7  A/C#
