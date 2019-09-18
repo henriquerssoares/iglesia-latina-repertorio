@@ -43,3 +43,8 @@ Meu prazer é viver
 Na casa de Deus, onde flui o amor
 ```
 
+## Vídeos
+
+### Gravação em Estúdio
+
+[![Em espírito e em verdade](http://img.youtube.com/vi/8_S15L94wy4/0.jpg)](http://www.youtube.com/watch?v=8_S15L94wy4)
