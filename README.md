@@ -16,6 +16,7 @@ Repertório pessoal de músicas cristãs em Português.
 * [Ao que é digno](cifras/ao_que_e_digno.md)
 * [Doce presença](cifras/doce_presenca.md)
 * [Ele é exaltado](cifras/ele_e_exaltado.md)
+* [Em espírito e em verdade](cifras/em_espirito_e_em_verdade.md)
 * [Eu vejo a glória](cifras/doce_presenca.md)
 * [Exaltai](cifras/exaltai.md)
 * [Jesus em Tua presença](cifras/jesus_em_tua_presenca.md)
