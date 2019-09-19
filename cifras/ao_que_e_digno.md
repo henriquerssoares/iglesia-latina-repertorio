@@ -38,6 +38,6 @@ A  Jesus
 * Gravação em Estúdio: [https://www.youtube.com/watch?v=ZXe3OwUd5tk](https://www.youtube.com/watch?v=ZXe3OwUd5tk)
 * Canto Congragacional: [https://www.youtube.com/watch?v=AAceLusO_rA](https://www.youtube.com/watch?v=AAceLusO_rA)
 
-### Referência em Espanhol (Al que es digno):
+### Referências em Espanhol (Al que es digno):
 
 * Apresentação Ao Vivo: [https://www.youtube.com/watch?v=pb-8DTuLwKY](https://www.youtube.com/watch?v=pb-8DTuLwKY)

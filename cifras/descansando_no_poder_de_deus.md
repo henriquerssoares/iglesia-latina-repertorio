@@ -57,7 +57,8 @@ descansando no poder de Deus.
 
 * Canto congregacional: [https://www.youtube.com/watch?v=NSouVDP3HFE](https://www.youtube.com/watch?v=NSouVDP3HFE)
 
-### Referência em Inglês (Leaning on the everlasting arms):
+### Referências em Inglês (Leaning on the everlasting arms):
+
 * Canto Congregacional: [https://www.youtube.com/watch?v=NWmkrOlSqW4](https://www.youtube.com/watch?v=NWmkrOlSqW4)
 * Gravação em Estúdio: [https://www.youtube.com/watch?v=9PK2apVQNS0](https://www.youtube.com/watch?v=9PK2apVQNS0)
 * True Grit Soundtrack: [https://www.youtube.com/watch?v=anhPfU3WGXk](https://www.youtube.com/watch?v=anhPfU3WGXk)

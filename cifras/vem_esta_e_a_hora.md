@@ -58,7 +58,7 @@ Vem, Vem, Vem, Vem, Vem
 * Gravação em Estúdio: [https://www.youtube.com/watch?v=RltQ4USrWoA](https://www.youtube.com/watch?v=RltQ4USrWoA)
 * Apresentação Ao Vivo: [https://www.youtube.com/watch?v=7j5aLkEe_vE](https://www.youtube.com/watch?v=7j5aLkEe_vE)
 
-### Referência em Inglês (Come, now is the time to worship):
+### Referências em Inglês (Come, now is the time to worship):
 
 * Gravação em Estúdio: [https://www.youtube.com/watch?v=NPWq8eM4lu8](https://www.youtube.com/watch?v=NPWq8eM4lu8)
 * Apresentação Ao Vivo: [https://www.youtube.com/watch?v=JBczkmLHdVo](https://www.youtube.com/watch?v=JBczkmLHdVo)

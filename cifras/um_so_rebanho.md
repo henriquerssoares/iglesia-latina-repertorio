@@ -61,7 +61,7 @@ quem nos amou  e por nós  quis morrer
 * Canto Congragacional: [https://www.youtube.com/watch?v=rtj8YV7K6jc](https://www.youtube.com/watch?v=rtj8YV7K6jc)
 * Voz e Violão: [https://www.youtube.com/watch?v=0MrMYUrawsE](https://www.youtube.com/watch?v=0MrMYUrawsE)
 
-### Referência em Inglês (Nearer, still nearer):
+### Referências em Inglês (Nearer, still nearer):
 
 * Canto Coral: [https://www.youtube.com/watch?v=dbT5YqSTqIs](https://www.youtube.com/watch?v=dbT5YqSTqIs)
 * Canto Congregacional: [https://www.youtube.com/watch?v=Lt8iShHWtNA](https://www.youtube.com/watch?v=Lt8iShHWtNA)

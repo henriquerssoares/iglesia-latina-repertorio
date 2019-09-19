@@ -71,6 +71,6 @@ Exaltai
 
 * Gravação em Estúdio: [https://www.youtube.com/watch?v=G_AnBiGphMo](https://www.youtube.com/watch?v=G_AnBiGphMo)
 
-### Referência em Inglês (Lift him up):
+### Referências em Inglês (Lift him up):
 
 * Gravação em Estúdio: [https://www.youtube.com/watch?v=DYpvqem0jhg](https://www.youtube.com/watch?v=DYpvqem0jhg)
