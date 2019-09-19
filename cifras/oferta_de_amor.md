@@ -15,7 +15,8 @@ C           G/B       Am     D    D7
 Como oferta de amor e sacrifício
 G           D/F#   Em      Em/D
 Quero minha vida a Ti entregar
-Am    G/B   C       D/F#  G    G7
+                               D7  (para voltar)
+Am    G/B   C       D/F#  G    G7  (para seguir)
 Como oferta viva em Teu altar
 
 C    D/C       Bm  Em
