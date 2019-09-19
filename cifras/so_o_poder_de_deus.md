@@ -44,3 +44,8 @@ E7                A47  A7  (para voltar)
                   A7+  E7  (para seguir)
 Posso todas as coisas
 ```
+
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=EK77xAXbWnU](https://www.youtube.com/watch?v=EK77xAXbWnU)
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=oWm1SM-uMEo](https://www.youtube.com/watch?v=oWm1SM-uMEo)

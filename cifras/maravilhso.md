@@ -29,3 +29,8 @@ Maravilhoso é tocar nas tuas vestes
       Am7        D4    D       C9    Cm  G  (para terminar)
 Maravilhoso é te contemplar, Senhor
 ```
+
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=J2JpnxM5YnI](https://www.youtube.com/watch?v=J2JpnxM5YnI)
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=UmmYIuuG3Xw](https://www.youtube.com/watch?v=UmmYIuuG3Xw)

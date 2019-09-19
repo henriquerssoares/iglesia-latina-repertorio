@@ -39,3 +39,8 @@ Não a nós, Senhor, Não a nós, Senhor
     Em7    A7      G/D   D   G
 Mas ao Teu nome dá gló   -   ria
 ```
+
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=Ro2me3wT2Qg](https://www.youtube.com/watch?v=Ro2me3wT2Qg)
+* Canto congregacional: [https://www.youtube.com/watch?v=B93iYIanWAo](https://www.youtube.com/watch?v=B93iYIanWAo)

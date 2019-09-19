@@ -31,3 +31,8 @@ Vou louvando o teu nome
         C9        D         G    ( G  C9  Em  D )
 por que sinto o Senhor me tocar
 ```
+
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=MuZkMzZn8No](https://www.youtube.com/watch?v=MuZkMzZn8No)
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=Cmsqhr9UrIw](https://www.youtube.com/watch?v=Cmsqhr9UrIw)

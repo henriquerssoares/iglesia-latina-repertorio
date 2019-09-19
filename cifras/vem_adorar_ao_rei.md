@@ -35,3 +35,7 @@ Seu amor, sua glória
     Em7    G/A  A/C#  G    D/F#  G  D/F#  G  D/F#  E/G#  E  A (Para seguir ou para acabar)
 Sim vem adorar  ao    rei
 ```
+
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=Hg8mpCA3G90](https://www.youtube.com/watch?v=Hg8mpCA3G90)

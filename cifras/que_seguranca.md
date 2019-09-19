@@ -48,3 +48,12 @@ Esperançoso, vivo na luz
 pela bondade do meu Je - sus
 ```
 
+### Referências
+
+* Canto Congregacional: [https://www.youtube.com/watch?v=q5Uhc3NbVa8](https://www.youtube.com/watch?v=q5Uhc3NbVa8)
+* Voz e Violão: [https://www.youtube.com/watch?v=MCLaEw0Xs30](https://www.youtube.com/watch?v=MCLaEw0Xs30)
+
+### Referência em Inglês (Blessed assurance):
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=rDeiy9-t2GE](https://www.youtube.com/watch?v=rDeiy9-t2GE)
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=DRA-pK63x3U](https://www.youtube.com/watch?v=DRA-pK63x3U)

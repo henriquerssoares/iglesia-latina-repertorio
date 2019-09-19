@@ -40,3 +40,7 @@ Am    G/B  C   D     D7  G
 Estar ao   Teu lado, Senhor
 ```
 
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=37NTtPilj0A](https://www.youtube.com/watch?v=37NTtPilj0A)
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=g-4Rlqy3QUk](https://www.youtube.com/watch?v=g-4Rlqy3QUk)

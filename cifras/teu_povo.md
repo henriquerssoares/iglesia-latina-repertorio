@@ -28,3 +28,7 @@ De louvor e de ser adorado
 Dentre todas as coisas, Tu és verdadeiro, Senhor!
 ```
 
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=qlpYOEbs8JU](https://www.youtube.com/watch?v=qlpYOEbs8JU)
+* Voz e Violão: [https://www.youtube.com/watch?v=44tkfgCogY0](https://www.youtube.com/watch?v=44tkfgCogY0)

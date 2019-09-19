@@ -36,3 +36,11 @@ G/C   G
 A  -  mém
 ```
 
+### Referências
+
+* Canto Congragacional: [https://www.youtube.com/watch?v=VkjoKZMSmts](https://www.youtube.com/watch?v=VkjoKZMSmts)
+* Apresentação Ao Vivo (letra alternativa): [https://www.youtube.com/watch?v=E_CpWL4Ygs8](https://www.youtube.com/watch?v=E_CpWL4Ygs8)
+
+### Referência em Inglês (Agnus Dei):
+
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=HPBmFwBSGb0](https://www.youtube.com/watch?v=HPBmFwBSGb0)

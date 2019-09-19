@@ -70,3 +70,12 @@ Este é o meu respirar
 G             C/G      C/D  G
 Este é o meu respirar
 ```
+
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=_gmrlJSx0Ac](https://www.youtube.com/watch?v=_gmrlJSx0Ac)
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=oyZ3-sCb2xY](https://www.youtube.com/watch?v=oyZ3-sCb2xY)
+
+### Referência em Inglês (Breathe):
+
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=X2FtpxUt5so](https://www.youtube.com/watch?v=X2FtpxUt5so)

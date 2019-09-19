@@ -56,3 +56,7 @@ Louvado seja o   Se-nhor
 Louvado seja o   Se-nhor
 ```
 
+### Referências
+
+* Canto Congragacional: [https://www.youtube.com/watch?v=3nmCtTQbOm0](https://www.youtube.com/watch?v=3nmCtTQbOm0)
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=MW5CYEohggw](https://www.youtube.com/watch?v=MW5CYEohggw)

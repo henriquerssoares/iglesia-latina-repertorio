@@ -46,3 +46,8 @@ Foi por Deus não sentir que tua alma se abriu,
       Bm       E7         A    Bm7  A/C#
 Tudo, tudo, deixando no Altar.
 ```
+
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=0Q3whVE9PGA](https://www.youtube.com/watch?v=0Q3whVE9PGA)
+* Voz e Violão: [https://www.youtube.com/watch?v=GlRtgl3bVUU](https://www.youtube.com/watch?v=GlRtgl3bVUU)

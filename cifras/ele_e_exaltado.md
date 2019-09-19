@@ -35,3 +35,13 @@ Ter - ra e céus          glorificam seu santo nome
 Am7       G       F         D        G     E7    (para terminar)
 Ele é exaltado, o rei é exaltado nos céus
 ```
+
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=Tt7nAJkcX8Y](https://www.youtube.com/watch?v=Tt7nAJkcX8Y)
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=22c5Flzd8Iw](https://www.youtube.com/watch?v=22c5Flzd8Iw)
+
+### Referência em Inglês (He is exalted):
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=QCAL9sULAEA](https://www.youtube.com/watch?v=QCAL9sULAEA)
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=xLTOnkYPqus](https://www.youtube.com/watch?v=xLTOnkYPqus)

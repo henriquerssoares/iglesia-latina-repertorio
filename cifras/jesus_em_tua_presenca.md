@@ -39,3 +39,7 @@ E te dar o louvor que é devido
 Estamos nós aqui
 ```
 
+### Referências
+
+* Gravação em Estúdio: [https://www.youtube.com/watch?v=iSDJj5mg7M8](https://www.youtube.com/watch?v=iSDJj5mg7M8)
+* Apresentação Ao Vivo: [https://www.youtube.com/watch?v=1xDrUID1E-Q](https://www.youtube.com/watch?v=1xDrUID1E-Q)

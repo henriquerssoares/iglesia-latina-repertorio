@@ -55,3 +55,13 @@ quem  nos amou e por nós quis mor-rer
 G         D/A  Bb7   D/A  A7      D
 quem nos amou  e por nós  quis morrer
 ```
+
+### Referências
+
+* Canto Congragacional: [https://www.youtube.com/watch?v=rtj8YV7K6jc](https://www.youtube.com/watch?v=rtj8YV7K6jc)
+* Voz e Violão: [https://www.youtube.com/watch?v=0MrMYUrawsE](https://www.youtube.com/watch?v=0MrMYUrawsE)
+
+### Referência em Inglês (Nearer, still nearer):
+
+* Canto Coral: [https://www.youtube.com/watch?v=dbT5YqSTqIs](https://www.youtube.com/watch?v=dbT5YqSTqIs)
+* Canto Congregacional: [https://www.youtube.com/watch?v=Lt8iShHWtNA](https://www.youtube.com/watch?v=Lt8iShHWtNA)
