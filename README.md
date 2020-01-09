@@ -28,3 +28,4 @@ Repertório pessoal de músicas cristãs em Português.
 * [Teu povo](cifras/teu_povo.md)
 * [Vem adorar ao Rei](cifras/vem_adorar_ao_rei.md)
 * [Vem, esta é a hora](cifras/vem_esta_e_a_hora.md)
+* [Você pode ter](cifras/voce_pode_ter.md)
