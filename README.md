@@ -24,6 +24,7 @@ Repertório pessoal de músicas cristãs em Português.
 * [Meu respirar](cifras/meu_respirar.md)
 * [Oferta de amor](cifras/oferta_de_amor.md)
 * [Se não for pra Te adorar](cifras/se_nao_for_pra_te_adorar.md)
+* [Semblante de Glória](cifras/semblante_de_gloria.md)
 * [Só o poder de Deus](cifras/so_o_poder_de_deus.md)
 * [Teu povo](cifras/teu_povo.md)
 * [Vem adorar ao Rei](cifras/vem_adorar_ao_rei.md)
