@@ -4,13 +4,17 @@ Repertório pessoal de músicas cristãs em Português.
 
 ## Hinos Tradicionais
 
+* [A mensagem da cruz](cifras/a_mensagem_da_cruz.md)
 * [Descansando no poder de Deus](cifras/descansando_no_poder_de_deus.md)
 * [Em fervente oração](cifras/em_fervente_oracao.md)
+* [Grandioso és Tu](cifras/grandioso_es_tu.md)
+* [Manso e suave](cifras/manso_e_suave.md)
 * [Não a nós, Senhor](cifras/nao_a_nos_senhor.md)
 * [Que segurança](cifras/que_seguranca.md)
 * [Um só rebanho](cifras/um_so_rebanho.md)
+* [Vivifica a tua igreja](cifras/vivifica_a_tua_igreja.md)
 
-## Cânticos Congragacionais
+## Cânticos Congregacionais
 
 * [Agnus Dei](cifras/agnus_dei.md)
 * [Ao que é digno](cifras/ao_que_e_digno.md)

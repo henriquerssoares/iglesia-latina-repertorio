@@ -18,11 +18,11 @@ Em espírito, em verdade
       D9/F#  D9/F       A       E/G#
 Te adoramos,      te adoramos
 
-       F#m   F#m/F     F#m/E  F#m/Eb
+       F#m7  F#m7/F    F#m7/E  F#m7/Eb
 Rei do reis        e Senhor
         D     E       A       E/G#
 Te entregamos nosso viver
-       F#m   F#m/F     F#m/E  F#m/Eb
+       F#m7  F#m7/F    F#m7/E  F#m7/Eb
 Rei do reis        e Senhor
         D     Bm7     E4   E
 Te entregamos nosso viver
