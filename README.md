@@ -17,11 +17,14 @@ Repertório pessoal de músicas cristãs em Português.
 ## Cânticos Congregacionais
 
 * [Agnus Dei](cifras/agnus_dei.md)
+* [Alto preço](cifras/alto_preco.md)
 * [Ao que é digno](cifras/ao_que_e_digno.md)
+* [Bom estarmos aqui](cifras/bom_estarmos_aqui.md)
+* [Corpo e família](cifras/corpo_e_familia.md)
 * [Doce presença](cifras/doce_presenca.md)
 * [Ele é exaltado](cifras/ele_e_exaltado.md)
 * [Em espírito e em verdade](cifras/em_espirito_e_em_verdade.md)
-* [Eu vejo a glória](cifras/doce_presenca.md)
+* [Eu vejo a glória](cifras/eu_vejo_a_gloria.md)
 * [Exaltai](cifras/exaltai.md)
 * [Jesus em Tua presença](cifras/jesus_em_tua_presenca.md)
 * [Maravilhoso](cifras/maravilhoso.md)
@@ -34,3 +37,4 @@ Repertório pessoal de músicas cristãs em Português.
 * [Vem adorar ao Rei](cifras/vem_adorar_ao_rei.md)
 * [Vem, esta é a hora](cifras/vem_esta_e_a_hora.md)
 * [Você pode ter](cifras/voce_pode_ter.md)
+
